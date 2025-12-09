@@ -16,7 +16,7 @@ Just started my journey on GitHub! I'm focused on building my portfolio and shar
 <hr>
 <h3 align="left">✨ Random Data Quote::</h3>
 <p align="center">
-  <img src="https://share.google/images/i57e02DiP3N3NoMQg" alt="Data Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 <hr>
 
@@ -56,7 +56,7 @@ My Absolute Favorites:
 
 Languages and Tools:
 
-<img height="27" src="https://share.google/images/TGIKTJyXGN95HZmjV" alt="Power BI">
+<img height="27" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fexcel-logo-png%2F&psig=AOvVaw35Kfj-9HS_quBuIY4U2Q_O&ust=1765332484935000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiSuY62r5EDFQAAAAAdAAAAABAE" alt="Power BI">
 <img height="27" src="https://share.google/images/E6FNziMfmDvrQztY3" alt="Power BI">
 
 Projects and Dev Stuffs:
