@@ -1,71 +1,32 @@
-👋 Hey there, I'm Mohamed Elasy 📊 Data Analyst | Excel & Power BI 
+Hey there 👋, I'm Mohamed Elasy! <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>] [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed Elasy&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
-<!-- REMINDER: Replace YOUR_GITHUB_USERNAME with your actual GitHub username to activate the profile views counter. -->
+Glad to see you here! [Mohamed Elasy]
 
-I’m an Aspiring Data Analyst currently focusing on building strong skills in Excel and Power BI. I'm learning step-by-step how to clean data, analyze it, and turn it into meaningful insights and dashboards.
+I am an Aspiring Data Analyst with a mission to transform raw data into meaningful insights and compelling dashboards. 🚀 I have a passion for problem-solving and turning messy data into clean, actionable reports, driven by the purpose of data storytelling. I am currently building a strong foundation in Excel and Power BI, with a focus on data cleaning, modeling, and visualization.
 
-My next learning goals are:
-➡️ SQL (for querying and managing data )
-➡️ Python (for automation & deeper analysis)
-➡️ Tableau (for data visualization)
+I'm an avid learner, constantly exploring new tools, and a problem-solver at heart. When I'm not analyzing data, you'll find me watching tech-related videos, fueling my curiosity.
 
-I’m building my portfolio and sharing my progress here on GitHub. 🚀
+Feel free to connect with me for all things data or just to say hello! Let's shape the future of data-driven decisions together. 🌟
 
-🔥 Quick Intro
+Joined Github [X] years ago.
 
-•
-📊 Currently learning: Excel (Advanced), Power BI (DAX, Data Modeling)
+Since then I pushed [X]+ commits, opened [X]+ issues, submitted [X]+ pull requests, created [X]+ gists and contributed to [X]+ public repositories.
 
-•
-🎯 Next steps: SQL → Python → Tableau
+<!-- REMINDER: Replace [X] with your actual GitHub stats and [YOUR_GITHUB_USERNAME] with your actual username. -->
 
-•
-📈 Interested in: BI, dashboards & data storytelling
+✨ Random Data Quote:: "The goal is to turn data into information, and information into insight." - Carly Fiorina
 
-•
-🧹 Love turning messy data into clean insights
+Like My Work?
 
-•
-🧠 Learning consistently every week
+[Buy Me A Coffee Link]
 
-•
-📫 Contact: mohamedalassy84@gmail.com
+Talking about Personal Stuff: 🛠 I’m currently mastering: Excel (Advanced ), Power BI (DAX, Data Modeling). 🚀 I’m currently exploring: SQL, Python, and Tableau. 💬 Ask me anything here! I am happy to help with data cleaning or basic visualization. 👾 Fun fact: A single typo in a dataset can cost millions! Always double-check your VLOOKUPs. 📫 Reach me out: mohamedalassy84@gmail.com.
 
-•
-🔗 LinkedIn: Mohamed Elasy
+My Absolute Favorites: 💻 I love exploring new datasets and building insightful dashboards. 📰 Reading, writing & watching Data Science/BI content whenever possible. 📊 Data Storytelling & creating impactful visualizations.
 
-📘 What I’m Working On
+Languages and Tools: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
 
-•
-✔ Power BI dashboards from beginner to advanced
+Projects and Dev Stuffs: ⚡ My GitHub Stats ☄️ My GitHub Streak ⚙️ Things I use to get stuff done
 
-•
-✔ Excel data cleaning & reporting
-
-•
-
-
-
-•
-✔ My first full data analysis case study
-
-
-
-•
-✔ Preparing a solid portfolio for data analyst roles
-
-🛠 Tools & Technologies
-
-Currently Using
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/excel/excel.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/powerbi/powerbi.png"></code>
-
-Learning Soon
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png"></code>
-
-❤️ Show Support
-
-If you like my work or want to follow my progress, make sure to ⭐ star some repos!
+Show some ❤️ by starring some of the repositories!
 
