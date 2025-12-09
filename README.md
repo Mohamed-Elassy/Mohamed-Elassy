@@ -16,7 +16,7 @@ Just started my journey on GitHub! I'm focused on building my portfolio and shar
 <hr>
 <h3 align="left">✨ Random Data Quote::</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Data Quote" />
 </p>
 <hr>
 
