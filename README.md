@@ -1,6 +1,8 @@
-Hey there 👋, I'm Mohamed Elasy! <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>] [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>]
+Hey there 👋, I'm Mohamed Elasy!
 
-Glad to see you here! [Mohamed Elasy]
+Glad to see you here!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 I am an Aspiring Data Analyst with a mission to transform raw data into meaningful insights and compelling dashboards. 🚀 I have a passion for problem-solving and turning messy data into clean, actionable reports, driven by the purpose of data storytelling. I am currently building a strong foundation in Excel and Power BI, with a focus on data cleaning, modeling, and visualization.
 
@@ -12,21 +14,83 @@ Joined Github [X] years ago.
 
 Since then I pushed [X]+ commits, opened [X]+ issues, submitted [X]+ pull requests, created [X]+ gists and contributed to [X]+ public repositories.
 
-<!-- REMINDER: Replace [X] with your actual GitHub stats and [YOUR_GITHUB_USERNAME] with your actual username. -->
-
-✨ Random Data Quote:: "The goal is to turn data into information, and information into insight." - Carly Fiorina
+<!-- REMINDER: Replace [X] with your actual GitHub stats and [YOUR_GITHUB_USERNAME] with your actual username. Also update the social media handles. --> <hr>
+<h3 align="left">✨ Random Data Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The goal is to turn data into information, and information into insight." alt="Data Quote" />
+</p>
+<hr>
 
 Like My Work?
 
-[Buy Me A Coffee Link]
+<a href="YOUR_BUY_ME_A_COFFEE_LINK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-Talking about Personal Stuff: 🛠 I’m currently mastering: Excel (Advanced ), Power BI (DAX, Data Modeling). 🚀 I’m currently exploring: SQL, Python, and Tableau. 💬 Ask me anything here! I am happy to help with data cleaning or basic visualization. 👾 Fun fact: A single typo in a dataset can cost millions! Always double-check your VLOOKUPs. 📫 Reach me out: mohamedalassy84@gmail.com.
+<img align="right" height="250" width="375" alt="Coder GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-My Absolute Favorites: 💻 I love exploring new datasets and building insightful dashboards. 📰 Reading, writing & watching Data Science/BI content whenever possible. 📊 Data Storytelling & creating impactful visualizations.
+Talking about Personal Stuff:
 
-Languages and Tools: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+•
+🛠   I’m currently mastering: Excel (Advanced ) and Power BI (DAX, Data Modeling).
 
-Projects and Dev Stuffs: ⚡ My GitHub Stats ☄️ My GitHub Streak ⚙️ Things I use to get stuff done
+•
+🚀   I’m currently exploring: SQL, Python, and Tableau.
+
+•
+💬   Ask me anything here! I am happy to help with data cleaning or basic visualization.
+
+•
+👾   Fun fact: A single typo in a dataset can cost millions! Always double-check your VLOOKUPs.
+
+•
+📫   Reach me out: mohamedalassy84@gmail.com.
+
+My Absolute Favorites:
+
+•
+💻   I love exploring new datasets and building insightful dashboards.
+
+•
+📰   Reading, writing & watching Data Science/BI content whenever possible.
+
+•
+📊   Data Storytelling & creating impactful visualizations.
+
+Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/excel/excel.png" alt="Excel"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="Power BI"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png" alt="Tableau"></code>
+
+Projects and Dev Stuffs:
+
+<details>
+<summary><b>⚡ Github Stats</b></summary>     
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details> <details>
+  <summary><b>☄️ Github Streaks</b></summary>     
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+</details> <details>
+    
+
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows/MacOS/Linux (Your preference )</li>
+	    <li><b>Laptop: </b> Your Laptop Model</li>
+  	    <li><b>Browser: </b> Chrome/Firefox/Edge</li>
+	    <li><b>Terminal: </b> PowerShell/Terminal/WSL</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor for data analysis scripts</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Trello, etc.</li>
+	    <li><b>To Stay Updated:</b> LinkedIn, YouTube, Kaggle, etc.</li>
+	</ul>
+</details>
+
+
+
+
+<div align="center">
 
 Show some ❤️ by starring some of the repositories!
+
+</div>
 
