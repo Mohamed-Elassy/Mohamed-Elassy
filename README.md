@@ -2,7 +2,7 @@ Hey there 👋, I'm Mohamed Elasy!
 
 Glad to see you here!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed Elasy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 I am an Aspiring Data Analyst with a mission to transform raw data into meaningful insights and compelling dashboards. 🚀 I have a passion for problem-solving and turning messy data into clean, actionable reports, driven by the purpose of data storytelling. I am currently building a strong foundation in Excel and Power BI, with a focus on data cleaning, modeling, and visualization.
 
