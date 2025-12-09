@@ -1,6 +1,9 @@
 Hey there 👋, I'm Mohamed Elasy!
 
-Glad to see you here!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elasy/)
+
+
+### Glad to see you here! 
 
 I am an Aspiring Data Analyst with a mission to transform raw data into meaningful insights and compelling dashboards. 🚀 I have a passion for problem-solving and turning messy data into clean, actionable reports, driven by the purpose of data storytelling. I am currently building a strong foundation in Excel and Power BI, with a focus on data cleaning, modeling, and visualization.
 
@@ -53,7 +56,7 @@ My Absolute Favorites:
 
 Languages and Tools:
 
-<img height="27" src="https://share.google/images/Ihrgx9YOPsJKuPLad" alt="Excel">
+[<img height="27" src="https://share.google/images/Ihrgx9YOPsJKuPLad" alt="Excel">](https://share.google/images/HU5RPYuyJj4esfx1v)
 <img height="27" src="https://share.google/images/E6FNziMfmDvrQztY3" alt="Power BI">
 
 Projects and Dev Stuffs:
