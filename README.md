@@ -57,7 +57,7 @@ My Absolute Favorites:
 Languages and Tools:
 
 <img height="27" src="https://github.com/Mohamed-Elassy/Mohamed-Elassy/blob/main/Excel-Logo-PNG.png" alt="Excel">
-<img height="27" src="https://share.google/images/E6FNziMfmDvrQztY3" alt="Power BI">
+<img height="27" src="https://github.com/Mohamed-Elassy/Mohamed-Elassy/blob/main/power%20bi%20icon.jpg" alt="Power BI">
 
 Projects and Dev Stuffs:
 
