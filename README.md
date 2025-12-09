@@ -56,7 +56,7 @@ My Absolute Favorites:
 
 Languages and Tools:
 
-[<img height="27" src="https://share.google/images/Ihrgx9YOPsJKuPLad" alt="Excel">](https://share.google/images/HU5RPYuyJj4esfx1v)
+<img height="27" src="https://share.google/images/TGIKTJyXGN95HZmjV" alt="Power BI">
 <img height="27" src="https://share.google/images/E6FNziMfmDvrQztY3" alt="Power BI">
 
 Projects and Dev Stuffs:
